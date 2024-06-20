@@ -1,0 +1,14 @@
+﻿# Project Name: Band Name Generator
+# Source: Day 1 project from 100 days of code course
+# What does it do: Simply generates a "band name" based on user inputs to questions
+
+print("Welcome to the Band Name Generator")
+print("What's the name of the city you grew up in?")
+
+city = input()
+
+print("What's your pet's name?")
+
+pet_name = input()
+
+print("Your band name could be " + city + " " + pet_name)
