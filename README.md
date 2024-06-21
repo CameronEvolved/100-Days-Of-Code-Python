@@ -14,7 +14,7 @@ My Progress:
 | 2 | July 17, 2024 | July 17, 2024 | Tip Calculator
 | 3 | July 18, 2024 | July 18, 2024 | Treasure Island
 | 4 | July 19, 2024 | July 19, 2024 | Rock, Paper, Sissors
-| 5 | TBD | TBD |  TBD |
+| 5 | July 20, 2024 | July 20, 2024 | Password Generator
 | 6 | TBD | TBD | TBD |
 | 7 | TBD | TBD | TBD |
 | 8 | TBD | TBD | TBD |
