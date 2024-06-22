@@ -15,7 +15,7 @@ My Progress:
 | 3 | July 18, 2024 | July 18, 2024 | Treasure Island
 | 4 | July 19, 2024 | July 19, 2024 | Rock, Paper, Sissors
 | 5 | July 20, 2024 | July 20, 2024 | Password Generator
-| 6 | TBD | TBD | TBD |
+| 6 | July 21, 2024 | July 21, 2024 | Escaping the Maze
 | 7 | TBD | TBD | TBD |
 | 8 | TBD | TBD | TBD |
 | 9 | TBD | TBD | TBD |
