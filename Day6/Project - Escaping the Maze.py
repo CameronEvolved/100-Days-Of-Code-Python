@@ -1,6 +1,6 @@
 ﻿# Project Name: Escaping the Maze
 # Source: Day 6 project from 100 days of code course
-# What does it do: Allows robot to solve any maze from Reeborg's World
+# What does it do: Allows robot to solve a maze from Reeborg's World from any starting position
 # Note: This code was specifically created to be used for the puzzle linked below
 # Link: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 
@@ -32,5 +32,5 @@ while at_goal() == False:
             move()
 
 
-#Note that there is a bug in this my code that causes a loop under a very specific starting situation (see loop screenshot).
+#Note that there is a bug in my code that causes a loop under a specific starting position (see loop screenshot).
 #This happened in the instructors version of the code as well and she said learn how to fix it around day 15.
