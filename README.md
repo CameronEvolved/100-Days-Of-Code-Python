@@ -3,12 +3,12 @@
 
 ![100DaysOfCodeCourse](README_Files/Udemy_Course.png)  
 
-This is the course that I'm using to help me learn python https://www.udemy.com/course/100-days-of-code. I'm going to upload all of my projects here as I complete them. I'm going to <i> try </i> to be consistant for the entire 100 days, but I'll be honest and put the real start and completion dates below.
+This is the course that I'm using to help me learn python https://www.udemy.com/course/100-days-of-code. I'm going to upload all of my projects here as I complete them. I'm going to <i> try </i> to be consistant for the entire 100 days, but I'll be honest and put the real start and completion dates below. I'm committed to practicing every day, however sometimes the lessons are too hard and I dont want to force myself to move on if I don't feel like I understood what I was supposed to learn that day.
 
-For now, I'm going to try to stick to the main requirements for the 100 days of code projects, meaning I likely won't deviate too much from the original project objectives. The reason is because I want to compare my code to the instructors code when I'm finished, and it's easier to do if I'm not adding too many of my own ideas on top of the requirements (although, I may create new versions of my projects later on if I'm want to add new features or something else).
+I'm going to try to stick to the main requirements for the 100 days of code projects, meaning I likely won't deviate too much from the original project objectives. The reason is because I want to compare my code to the instructors code when I'm finished, and it's easier to do if I'm not adding too many of my own ideas on top of the requirements (although, I may create new versions of my projects later on if I'm want to add new features or something else).  
 
 My Progress:
-| Day | Started | Completed | Project Name |
+| Course Day | Started | Completed | Project Name |
 | --- | --- | --- | --- |
 | 1 | July 16, 2024 | July 16, 2024 | Band Name Generator
 | 2 | July 17, 2024 | July 17, 2024 | Tip Calculator
@@ -16,7 +16,7 @@ My Progress:
 | 4 | July 19, 2024 | July 19, 2024 | Rock, Paper, Sissors
 | 5 | July 20, 2024 | July 20, 2024 | Password Generator
 | 6 | July 21, 2024 | July 21, 2024 | Escaping the Maze
-| 7 | TBD | TBD | TBD |
+| 7 | July 22, 2024  | TBD | Hangman |
 | 8 | TBD | TBD | TBD |
 | 9 | TBD | TBD | TBD |
 | 10 | TBD | TBD | TBD |
