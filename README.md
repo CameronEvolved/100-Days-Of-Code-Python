@@ -10,13 +10,13 @@ I'm going to try to stick to the main requirements for the 100 days of code proj
 My Progress:
 | Course Day | Started | Completed | Project Name |
 | --- | --- | --- | --- |
-| 1 | July 16, 2024 | July 16, 2024 | Band Name Generator
-| 2 | July 17, 2024 | July 17, 2024 | Tip Calculator
-| 3 | July 18, 2024 | July 18, 2024 | Treasure Island
-| 4 | July 19, 2024 | July 19, 2024 | Rock, Paper, Sissors
-| 5 | July 20, 2024 | July 20, 2024 | Password Generator
-| 6 | July 21, 2024 | July 21, 2024 | Escaping the Maze
-| 7 | July 22, 2024  | TBD | Hangman |
+| 1 | June 16, 2024 | June 16, 2024 | Band Name Generator
+| 2 | June 17, 2024 | June 17, 2024 | Tip Calculator
+| 3 | June 18, 2024 | June 18, 2024 | Treasure Island
+| 4 | June 19, 2024 | June 19, 2024 | Rock, Paper, Sissors
+| 5 | June 20, 2024 | June 20, 2024 | Password Generator
+| 6 | June 21, 2024 | June 21, 2024 | Escaping the Maze
+| 7 | June 22, 2024  | June 23, 2024 | Hangman |
 | 8 | TBD | TBD | TBD |
 | 9 | TBD | TBD | TBD |
 | 10 | TBD | TBD | TBD |
