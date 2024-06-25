@@ -17,7 +17,7 @@ My Progress:
 | 5 | June 20, 2024 | June 20, 2024 | Password Generator
 | 6 | June 21, 2024 | June 21, 2024 | Escaping the Maze
 | 7 | June 22, 2024  | June 23, 2024 | Hangman |
-| 8 | June 23, 2024 | TBD | Ceasar Cipher |
+| 8 | June 23, 2024 | June 24, 2024 | Ceasar Cipher |
 | 9 | TBD | TBD | TBD |
 | 10 | TBD | TBD | TBD |
 | 11 | TBD | TBD | TBD |
