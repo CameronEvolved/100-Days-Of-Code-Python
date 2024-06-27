@@ -18,7 +18,7 @@ My Progress:
 | 6 | June 21, 2024 | June 21, 2024 | Escaping the Maze
 | 7 | June 22, 2024  | June 23, 2024 | Hangman |
 | 8 | June 23, 2024 | June 24, 2024 | Ceasar Cipher |
-| 9 | June 25, 2024 | TBD | Blind Auction
+| 9 | June 25, 2024 | June 26, 2024 | Blind Auction
 | 10 | TBD | TBD | TBD |
 | 11 | TBD | TBD | TBD |
 | 12 | TBD | TBD | TBD |
